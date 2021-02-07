@@ -1,7 +1,3 @@
-
-#include<bits/stdc++.h> 
-#include<iostream>
-#include <algorithm>
 #include "bitonic.h"
 
 using namespace std; 
