@@ -24,7 +24,7 @@ Bubble Sort
 
 Status: 
 
-C++ code: Under Development!
+C++ code: Done!
 
 Verilog IP: Under Development!
 
