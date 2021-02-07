@@ -8,8 +8,6 @@ This Repo includes C++ codes, Verilog IPs and Complete Zynq applications of sort
 
 # Included Algorithms 
 
--------------------------------------
-
 Bitonic Sort
 
 Status: 
